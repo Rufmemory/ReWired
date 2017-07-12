@@ -28,7 +28,7 @@ As i cannot forget his substantial addition to my understanding,
  and as i did have to change and correct a lot of errors.
 
 YET! There are still some things that i have changed in my newer version "GridMod"
- and should preferably be changed if forking this repo for best practice purposes...
+ and should preferably be changed if forking this or his (Pygame-3D) repo for best practice purposes...
 
 Such as:
 - variable_names/functions(): they should prefferably allways be lowercased in order to distinguish them from Classes
