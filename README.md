@@ -1,7 +1,7 @@
 # ReWired
 There you go dear lovely git folks! 
 
-This is sort of a tribute to the pygame module envisioned by Petercollingridge 
+This is a tribute to the pygame module envisioned by Petercollingridge 
  I named it ReWired as its corresponding Main class was elegantly named Wireframe. 
 
 This module is now capable of visualising self made three dimensional shapes,
