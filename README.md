@@ -38,6 +38,7 @@ Such as:
 - Incorporating all var declarations and functions into their corresponding Classes
 - Transforming more lists into tupples...
 - Changing Key Binding
+
 Feel free to let me know if you want to add or ask anything,
  perhaps you could have a look at my newest related project called GridMod! 
  the GridMod Project is all initialized by classes, and other personal additions/changes.
