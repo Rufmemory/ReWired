@@ -305,7 +305,7 @@ class WireframeViewer(WireframeGroup):
 # involving setting up such an environment, especially with PyGame.
 #As i wont forget his substantial addition to my understanding, 
 # and to the allready existing and wonderfull github community,
-#I have thereby created this entirely Python3 converted repo, as a tribute.
+#I have thereby created this repo as a tribute.
 # It should hopefully fix a great deal of issues, and as i did have to change and thereby correct a lot of errors.
 #YET! There are still some things that has changed in my newer version "GridMod"
 # and should preferably be changed if forking this repo for best practice purposes...
