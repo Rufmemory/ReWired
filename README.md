@@ -1,7 +1,7 @@
 # ReWired
 There you go dear lovely git folks! 
 
-This is a tribute to the pygame module envisioned by Petercollingridge 
+This is a late tribute to the pygame module envisioned by Petercollingridge 
  I named it ReWired as its corresponding Main class was elegantly named Wireframe. 
 
 This module is now capable of visualising self made three dimensional shapes,
@@ -9,9 +9,6 @@ This module is now capable of visualising self made three dimensional shapes,
  generating vectors and matrices, and finally applying unit vectors and 
  common matrix operations we get to display predefined 3d objects, 
  along with customising the scaling, rotation, and lightning factor.
-
-Peters old python2 code, due to technicallities, time issues, and/or lack of involvement.
- according to his last contrib (2012) and the git comments, couldnt work at all.
 
 I have myself invested quite some time in setting up such a functional 3d-Engine, 
  with the allready existing pygame, Vec3D methods and various documentations. 
